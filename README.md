@@ -2,7 +2,7 @@
 
 Developed an AI-powered conversational chatbot using LangChain and Mistral AI that enables users to interact with a large language model through a command-line interface. The chatbot maintains conversation history to provide context-aware responses, creating a more natural and interactive user experience.
 
-# Objective
+# Objective :- 
 
 1. Develop an intelligent chatbot capable of understanding and responding to user queries.
 2. Integrate the Mistral Large Language Model using LangChain.
